@@ -2,6 +2,10 @@
 
 This is a Streamlit-based interactive web application that provides detailed insights into YouTube channel performance metrics such as views, watch hours, likes, comments, and subscribers. The dashboard supports filtering by date, aggregation over time frames, and visualization with customizable charts.
 
+## Streamlit app: 
+```
+https://youtubechannelperformance-dashboard-wfigb2z6lbhvl9myekydxu.streamlit.app/
+```
 
 ## Features
 
