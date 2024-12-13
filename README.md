@@ -30,23 +30,6 @@ This is a Streamlit-based interactive web application that provides detailed ins
 7. **Raw Data View**  
    - Expand to view the complete dataset after applying filters.  
 
-
-## How to Run the App
-
-### **Prerequisites**  
-Ensure the following are installed:  
-- Python 3.x  
-- Required Python libraries:  
-  ```bash
-  pip install streamlit pandas
-  ```
-
-### **Run the Streamlit App** 
-
-Run the Streamlit app:  
-   ```bash
-   streamlit run dashboard.py
-   ```
    
 ## **Data File**  
 The application uses `data.csv` containing the following columns:  
