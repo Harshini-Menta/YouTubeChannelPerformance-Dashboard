@@ -47,6 +47,5 @@ The application uses `data.csv` containing the following columns:
 - **SHARES**: Total shares recorded  
 
 
-## Output
 
 
